@@ -8,7 +8,7 @@ variable "aws_region" {
 }
 
 variable "project_name" {
-  description = "Short name used as a prefix on every resource"
+  description = "Short name used as a prefix on every resources"
   type        = string
 }
 

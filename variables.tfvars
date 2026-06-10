@@ -67,4 +67,4 @@ rds_port              = 5432
 # ============================================================
 # Bucket names must be globally unique across all AWS accounts
 frontend_bucket_name = "myapp-dev-frontend-20240101"
-app_bucket_name      = "myapp-dev-app-storage-20240101"
+app_bucket_name      = "myapp-dev-app-storage-202401010"
